@@ -76,9 +76,3 @@ jupyter lab notebooks/champions.ipynb
 ## Data
 
 Match results and statistics come from **[football-data.co.uk](https://www.football-data.co.uk/spainm.php)**, Spanish Primera División (`SP1`). Columns are described in the [football-data.co.uk notes](https://www.football-data.co.uk/notes.txt). The data is used here for non-commercial analysis, and all credit for collecting it goes to football-data.co.uk.
-
-## Next steps
-
-- Predict a team's final points from these metrics with a regression model, training on earlier seasons and testing on later ones.
-- Add expected goals (xG) and possession data to separate chance quality from chance volume.
-- Repeat the analysis for the Premier League, Serie A and the Bundesliga to see whether the pattern holds in other leagues.
